@@ -1,0 +1,20 @@
+DESAFIO DE LA PLATAFORMA MAVEN ANALYTICS
+
+Objetivo
+Para Maven Pizza Challenge , desempeñarás el papel de un consultor de BI contratado por Plato's Pizza, una pizzería de inspiración griega en Nueva Jersey. Lo contrataron para ayudar al restaurante a utilizar datos para mejorar las operaciones y acaba de recibir el siguiente mensaje:
+
+" Bienvenido a bordo, ¡nos alegra que esté aquí para ayudar!
+
+Las cosas van bien aquí en Platón, pero se puede mejorar. Hemos estado recopilando datos transaccionales durante el año pasado, pero realmente no hemos podido darles un buen uso. Esperamos que pueda analizar los datos y elaborar un informe que nos ayude a encontrar oportunidades para generar más ventas y trabajar de manera más eficiente.
+
+Aquí hay algunas preguntas que nos gustaría poder responder:
+
+- ¿Qué días y horarios solemos estar más ocupados? - ¿Cuántas pizzas hacemos durante las horas punta? - ¿Cuáles son nuestras pizzas mejores y peor vendidas? - ¿Cuál es el valor promedio de nuestros pedidos? - 
+- ¿Cuantas pizzas suele haber en un pedido? - ¿Tenemos algun best seller? - 
+- ¿Cuanto dinero ganamos este año? - ¿Podemos identificar alguna estacionalidad en las ventas? - 
+
+Eso es todo lo que se me ocurre por ahora, pero si tienes alguna otra idea, me encantaría escucharla. ¡Tú eres el experto!
+
+Gracias de antemano, Mario Maven (Gerente, Plato's Pizza)" 
+
+Para este desafío, su tarea es __crear un panel de una sola página basado en el correo electrónico de Mario para ayudarlo a mejorar las operaciones del restaurante.
